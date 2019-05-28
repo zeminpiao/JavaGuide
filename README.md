@@ -6,6 +6,17 @@
 
 Translated from https://github.com/Snailclimb/JavaGuide
 
+The java guide repository by Snailclimb is already popular among Chinese java developers. 
+For me as a junior java developer, 
+it is quite interesting to translate the repo and go through this repo to gain more java related knowledge. 
+
+The main purpose of this repo is to conclude java related knowledge. 
+For those who don't know java at all or know a bit about java, 
+this repo can be regarded as a starting point for learning java. 
+If you already know java well, 
+this repo can remind you of some detailed knowledge if you need to deal with an interview.
+
+Feel free to give feedback :) 
 
 ## 
 
@@ -40,7 +51,7 @@ Translated from https://github.com/Snailclimb/JavaGuide
 ### Concurrency
 
 * [Basic knowledge about Java Concurrency](docs/java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md)
-* [Advanced knowledge about Java Concurrencty(docs/java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md)
+* [Advanced knowledge about Java Concurrency](docs/java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md)
 * [Conclusion of Concurrent Collections](docs/java/Multithread/ConclusionConcurrentCollections.md)
 * [Pessimistic Locks and Optimistic Locks](docs/essential-content-for-interview/PessimisticAndOptimisticLocks.md)
 * [Atomic Variable Class](docs/java/Multithread/Atomic.md)
